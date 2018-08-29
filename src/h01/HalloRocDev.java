@@ -6,6 +6,6 @@ package h01;
 public class HalloRocDev {
 
     public static void main(String[] args) {
-        System.out.println("Op naar het melkweg en hier ver vandaan!");
+        System.out.println("Op naar het melkwegstelsel en hier ver vandaan!");
     }
 }
