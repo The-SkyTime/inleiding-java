@@ -4,15 +4,13 @@ import java.awt.*;
 import java.applet.*;
 
 public class variabelen extends Applet {
-    // H5
-    Color color;
+    /*Color color;
     Color line;
     int breedte;
     int height;
     int valerie,jeroen, hans;
 
     public void init() {
-        //H5
         color = Color.MAGENTA;
         line = Color.BLACK;
         breedte = 100;
@@ -26,7 +24,7 @@ public class variabelen extends Applet {
     public void paint(Graphics g) {
 
         // 5.1
-        /*//Lijn
+        //Lijn
         g.drawLine(10,20,breedte,20);
         g.drawString("Lijn",45,35);
         //Rechthoek
@@ -56,10 +54,10 @@ public class variabelen extends Applet {
         //Cirkel
         g.setColor(line);
         g.drawOval(270,120,50,height);
-        g.drawString("Cirkel",280,180);*/
+        g.drawString("Cirkel",280,180);
 
         // 5.2
-        /*g.drawString( "120" , 20, 40 );
+        g.drawString( "120" , 20, 40 );
         g.drawString( "100" , 20, 60 );
         g.drawString( "80" , 20, 80 );
         g.drawString( "60" , 20, 100 );
@@ -80,7 +78,7 @@ public class variabelen extends Applet {
         g.drawRect(120,40,20,120);
         g.drawString( "Hans" , 120, 170 );
         g.setColor(Color.CYAN);
-        g.fillRect(121, 160 - hans, 19, hans);*/
+        g.fillRect(121, 160 - hans, 19, hans);
 
-    }
+    }*/
 }
