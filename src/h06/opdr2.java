@@ -16,6 +16,7 @@ public class opdr2 extends Applet {
     }
 
     public void paint(Graphics g) {
+        // Seconden
         g.drawString("Seconden in een uur = " + uur ,10,10);
         g.drawString("Seconden in een dag = " + dag ,10,25);
         g.drawString("Seconden in een jaar = " + jaar ,10,40);

@@ -6,6 +6,7 @@ import java.awt.*;
 public class opdr2 extends Applet {
 
     public void paint(Graphics g) {
+        //Huis met 1 raam en deur
         g.drawLine(180,90,90,0);
         g.drawLine(90,0,0,90);
         g.drawLine(0,90,180,90);

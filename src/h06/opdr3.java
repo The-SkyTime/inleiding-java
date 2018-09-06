@@ -15,6 +15,7 @@ public class opdr3 extends Applet {
 
 
     public void paint(Graphics g) {
+        // Negatieve getal
         g.drawString("" + numtot , 10,10);
     }
 }

@@ -17,6 +17,7 @@ public class praktijk extends Applet {
 
 
     public void paint(Graphics g) {
+        // Praktijk
         g.drawString("" + cijftot,10,10);
     }
 }

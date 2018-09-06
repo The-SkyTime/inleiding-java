@@ -6,7 +6,7 @@ import java.applet.*;
     public class opdr1 extends Applet {
 
         public void paint(Graphics g) {
-
+            // gelijkbenige driehoek
             g.setColor(Color.black);
             g.drawLine(180,90,90,0);
             g.drawLine(90,0,0,90);

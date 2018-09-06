@@ -6,6 +6,7 @@ import java.awt.*;
 public class opdr6 extends Applet {
 
     public void paint(Graphics g) {
+        //Stoplicht
         g.setColor(Color.black);
         g.fillRect(50,50,40,145);
         g.drawRect(50 ,50,40,145);

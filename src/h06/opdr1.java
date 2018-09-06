@@ -16,6 +16,7 @@ public class opdr1 extends Applet{
 
 
     public void paint(Graphics g) {
+        // Berekening geld
         g.drawString("Uitkomst = " + uit, 10, 10);
 
     }

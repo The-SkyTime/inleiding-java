@@ -6,6 +6,7 @@ import java.awt.*;
 public class praktijk extends Applet {
 
     public void paint(Graphics g) {
+        // Praktijk
         g.drawLine(10,10,100,10);
         g.drawString("Lijn",45,25);
         g.drawRect(10,30,100,50);

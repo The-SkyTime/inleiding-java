@@ -8,6 +8,7 @@ public class opdr2 extends Applet{
         setBackground(Color.white);
     }
     public void paint(Graphics g) {
+        //Naam 2
         g.setColor(Color.blue);
         g.drawString( "Tim" , 40, 40 );
         g.setColor(Color.red);

@@ -6,6 +6,7 @@ import java.awt.*;
 public class opdr3 extends Applet {
 
     public void paint(Graphics g) {
+        // Nederlandse flag
         g.drawRect(0,0,20,360);
         g.setColor(Color.red);
         g.fillRect(21, 0, 140, 60);

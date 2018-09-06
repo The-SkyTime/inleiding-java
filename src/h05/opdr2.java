@@ -14,6 +14,7 @@ public class opdr2 extends Applet {
     }
 
     public void paint(Graphics g) {
+        //Staafdiagram
         g.drawString( "120" , 20, 40 );
         g.drawString( "100" , 20, 60 );
         g.drawString( "80" , 20, 80 );
