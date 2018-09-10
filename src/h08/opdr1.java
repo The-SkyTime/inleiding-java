@@ -15,7 +15,7 @@ public class opdr1 extends Applet{
     public void init() {
         tekstvak = new TextField("Klik op mij", 20);
         label = new Label("Type iets in het tekstvak " +
-                "en druk op enter");
+                "en druk op OK");
         tekstvak.addActionListener( new TekstvakListener() );
         ok = new Button("Ok");
         ok.addActionListener( new KnopListener() );
