@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81cd5880-044c-46ce-a9fc-e42317d30021" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/opdr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/opdr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/opdr3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/opdr5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/praktijk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/opdr9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/praktijk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h08/opdr1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h08/opdr1.java" afterDir="false" />
     </list>
@@ -36,48 +40,53 @@
     <session id="1284049110">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="47" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="5" />
-          <entry key="project.open.time.18" value="4" />
-          <entry key="project.open.time.19" value="3" />
-          <entry key="project.open.time.20" value="3" />
-          <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.23" value="2" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.18" value="5" />
+          <entry key="project.open.time.19" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="4" />
+          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.69" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="73" />
+          <entry key="java" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2292" />
+          <entry key="java" value="2577" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2292" />
+          <entry key="JAVA" value="2577" />
           <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,7 +132,6 @@
         <option value="$PROJECT_DIR$/src/h08/knoppen.java" />
         <option value="$PROJECT_DIR$/src/h06/praktijk.java" />
         <option value="$PROJECT_DIR$/src/h08/opdr2.java" />
-        <option value="$PROJECT_DIR$/src/h08/opdr3.java" />
         <option value="$PROJECT_DIR$/src/h08/praktijk.java" />
         <option value="$PROJECT_DIR$/src/h08/opdr1.java" />
         <option value="$PROJECT_DIR$/src/h10/opdr3.java" />
@@ -132,6 +140,17 @@
         <option value="$PROJECT_DIR$/src/h10/opdr3_4.java" />
         <option value="$PROJECT_DIR$/src/h10/praktijk.java" />
         <option value="$PROJECT_DIR$/src/h10/opdr5.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr3.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr2.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr7.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr9.java" />
+        <option value="$PROJECT_DIR$/src/h11/praktijk.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr8.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr4.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr5.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr6.java" />
+        <option value="$PROJECT_DIR$/src/h08/opdr3.java" />
+        <option value="$PROJECT_DIR$/src/h11/opdr1.java" />
       </list>
     </option>
   </component>
@@ -154,6 +173,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,19 +186,30 @@
               <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inleiding-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inleiding-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="h11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536837556782" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538984309408" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -194,56 +225,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.opdr5">
-    <configuration name="opdr1 (1)" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.opdr1" />
+  <component name="RunManager" selected="Applet.praktijk">
+    <configuration name="opdr3" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.opdr3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="opdr2 (1)" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.opdr2" />
-      <module name="inleiding-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="opdr3_4" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.opdr3_4" />
+    <configuration name="opdr4" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.opdr4" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="opdr5" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.opdr5" />
+      <option name="MAIN_CLASS_NAME" value="h11.opdr5" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="praktijk (1)" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h10.praktijk" />
+    <configuration name="opdr6" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.opdr6" />
+      <module name="inleiding-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="praktijk" type="Applet" factoryName="Applet" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h11.praktijk" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.opdr1 (1)" />
-      <item itemvalue="Applet.opdr2 (1)" />
-      <item itemvalue="Applet.opdr3_4" />
+      <item itemvalue="Applet.opdr3" />
+      <item itemvalue="Applet.opdr4" />
       <item itemvalue="Applet.opdr5" />
-      <item itemvalue="Applet.praktijk (1)" />
+      <item itemvalue="Applet.opdr6" />
+      <item itemvalue="Applet.praktijk" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Applet.praktijk" />
+        <item itemvalue="Applet.opdr6" />
         <item itemvalue="Applet.opdr5" />
-        <item itemvalue="Applet.praktijk (1)" />
-        <item itemvalue="Applet.opdr3_4" />
-        <item itemvalue="Applet.opdr2 (1)" />
-        <item itemvalue="Applet.opdr1 (1)" />
+        <item itemvalue="Applet.opdr4" />
+        <item itemvalue="Applet.opdr3" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +320,23 @@
       <workItem from="1536747279354" duration="7069000" />
       <workItem from="1536834839856" duration="1468000" />
       <workItem from="1537170502217" duration="580000" />
+      <workItem from="1537339187096" duration="536000" />
+      <workItem from="1537776541422" duration="606000" />
+      <workItem from="1537805056957" duration="2031000" />
+      <workItem from="1537856150778" duration="579000" />
+      <workItem from="1537871501031" duration="1480000" />
+      <workItem from="1537878808421" duration="313000" />
+      <workItem from="1537947126652" duration="827000" />
+      <workItem from="1537958250076" duration="872000" />
+      <workItem from="1538035895366" duration="641000" />
+      <workItem from="1538116542007" duration="46000" />
+      <workItem from="1538116990522" duration="20000" />
+      <workItem from="1538117126496" duration="8000" />
+      <workItem from="1538123352321" duration="6000" />
+      <workItem from="1538126134660" duration="16000" />
+      <workItem from="1538126302245" duration="22000" />
+      <workItem from="1538131855302" duration="9000" />
+      <workItem from="1538983963754" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="hoi">
       <created>1535535431485</created>
@@ -367,16 +415,23 @@
       <option name="project" value="LOCAL" />
       <updated>1536569409279</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update">
+      <created>1537339405670</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537339405670</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43893000" />
+    <option name="totallyTimeSpent" value="52220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17802057" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22043702" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -385,9 +440,9 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3286445" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27762803" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16981132" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32884097" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.106469005" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" weight="0.17385444" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -446,13 +501,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/h01/HalloRocDev.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Label.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-526">
@@ -495,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h04/opdr4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h04/opdr5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -527,13 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h05/opdr2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -579,34 +613,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/h08/opdr3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/h10/opdr4.java" />
     <entry file="file://$PROJECT_DIR$/src/h08/opdr1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h08/opdr2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -614,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -624,19 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
           <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/opdr3_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="96" column="13" lean-forward="true" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -644,19 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/h10/praktijk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="54" column="47" lean-forward="true" selection-start-line="54" selection-start-column="47" selection-end-line="54" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,6 +646,143 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/praktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="49" selection-start-line="40" selection-start-column="49" selection-end-line="40" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h10/opdr3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h01/HalloRocDev.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h08/opdr3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h05/opdr2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="21" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h08/opdr2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="26" column="35" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h04/opdr4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="31" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/praktijk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/h11/opdr6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
